@@ -1,0 +1,2 @@
+# A-Statistical-Study-on-Online-Shopping-Behavior-of-College-Students-in-Coimbatore-Using-IBM-SPSS
+           A questionnaire is developed for collecting the data and analysis the data based on various variables such as age, gender, most type of       payment, quality of the product, speed of delivery, most used website. Resulting most usings online shopping are male. maximum of the   respondents are from age group between 18-21.
